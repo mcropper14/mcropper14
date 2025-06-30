@@ -17,5 +17,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myra-cropper-40ba0a250/)
 
-
-![GitHub Contribution Snake](https://github.com/mcropper14/mcropper14/blob/output/github-contribution-grid-snake.svg)
