@@ -1,12 +1,12 @@
-## 👋 Hi there, I'm Myra
+## Hi there, I'm Myra
 
-🎓 I am pursuing my Master of Science in Electrical and Computer Engineering at **Carnegie Mellon University**.
+ I am pursuing my Master of Science in Electrical and Computer Engineering at **Carnegie Mellon University**.
 
-💼 Currently interning at **EverWatch**, working on **Machine Learning Systems**.
+ Currently interning at **EverWatch**, working on **Machine Learning Systems**.
 
-🚗 My research interests focus on designing **safe, interpretable autonomous driving systems**, especially in challenging edge-case scenarios.
+ My research interests focus on designing **safe, interpretable autonomous driving systems**, especially in challenging edge-case scenarios.
 
-📫 How to reach me: [mcropper@andrew.cmu.edu] or connect on [LinkedIn](https://www.linkedin.com/in/myra-cropper-40ba0a250/).
+ How to reach me: mcropper@andrew.cmu.edu or connect on [LinkedIn](https://www.linkedin.com/in/myra-cropper-40ba0a250/).
 
 
 
@@ -17,4 +17,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myra-cropper-40ba0a250/)
 
-
+![Snake animation](https://github.com/mcropper14/mcropper14/blob/output/github-contribution-grid-snake.svg)
