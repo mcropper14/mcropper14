@@ -1,6 +1,6 @@
 ## Hi there, I'm Myra
 
- I am pursuing my Master of Science in Electrical and Computer Engineering - AArtificial Intelligence Engineering at **Carnegie Mellon University**.
+ I am pursuing my Master of Science in Electrical and Computer Engineering - Artificial Intelligence Engineering at **Carnegie Mellon University**.
 
  Currently interning at **EverWatch**, working on **Machine Learning Systems**.
 
