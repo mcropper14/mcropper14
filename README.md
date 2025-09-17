@@ -1,31 +1,12 @@
 ## Hi there, I'm Myra
 
- I am pursuing my Master of Science in Electrical and Computer Engineering - Artificial Intelligence Engineering at **Carnegie Mellon University**.
+ I am pursuing a Master of Science in Electrical and Computer Engineering - Artificial Intelligence Engineering at **Carnegie Mellon University**.
 
- Currently interning at **EverWatch**, working on **Machine Learning Systems**.
+ Currently doing research under Prof John Dolan and Prof Ozan Tonguz in the Drive Lab, working on **Autonomous Driving**, particulary 4d radar sensor fusion and model drift.
 
  My research interests focus on designing **safe, interpretable autonomous driving systems**, especially in challenging edge-case scenarios.
 
  How to reach me: mcropper@andrew.cmu.edu or connect on [LinkedIn](https://www.linkedin.com/in/myra-cropper/).
-
-
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mcropper14&show_icons=true&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcropper14&layout=compact&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 
 
