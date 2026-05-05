@@ -4,7 +4,6 @@
 
  Currently doing research under Prof John Dolan and Prof Ozan Tonguz in the Drive Lab, working on **Autonomous Driving**, particulary 4d radar sensor fusion and model drift.
 
- My research interests focus on designing **safe, interpretable autonomous driving systems**, especially in challenging edge-case scenarios.
 
  How to reach me: mcropper@andrew.cmu.edu or connect on [LinkedIn](https://www.linkedin.com/in/myra-cropper/).
 
