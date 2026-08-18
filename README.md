@@ -4,7 +4,7 @@
 
 Currently conducting research under Prof John Dolan and Prof Ozan Tonguz in the Drive Lab, working on **Autonomous Driving**, particulary 4d radar sensor fusion and distrbution drift.
 
-Incoming Summer 2026 intern for Ford's ADAS team. 
+Previous summer 2026 intern for Ford's ADAS team. 
 
 How to reach me: mcropper@andrew.cmu.edu or connect on [LinkedIn](https://www.linkedin.com/in/myra-cropper/).
 
